@@ -15,3 +15,4 @@ class Users(models.Model):
     name2 = fields.Char(string='Name')
     name3 = fields.Char(string='Name')
     name4 = fields.Char(string='Name')
+    name5 = fields.Char(string='Name')
