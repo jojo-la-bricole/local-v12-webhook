@@ -1,0 +1,4 @@
+[submodule "jojo-la-bricole/testdelete"]
+	path = jojo-la-bricole/testdelete
+	url = git@github.com:jojo-la-bricole/testdelete.git
+	branch = master
